@@ -1,4 +1,4 @@
-**Instagram automation using selenium and python.**
+# Instagram automation using selenium and python
 
 With this module you can perform tasks such as -
 
