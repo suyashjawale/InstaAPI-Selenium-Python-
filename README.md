@@ -41,4 +41,4 @@ With this module you can perform tasks such as -
 
 **Video tutorial**
 
-    https://youtu.be/Uri4fu58RHM
+    https://www.youtube.com/watch?v=bUzalpu-V7I&list=PLHLf7zeJTJM-huZ8Luh925M2umYWCByCp
